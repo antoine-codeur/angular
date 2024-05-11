@@ -9,51 +9,6 @@
     tsconfig.json
     server.ts
     tsconfig.spec.json
-dist/
-    test-app/
-        prerendered-routes.json
-        3rdpartylicenses.txt
-        server/
-            index.server.html
-            chunk-VVCT4QZE.mjs
-            main.server.mjs
-            chunk-O73ZHKXN.mjs
-            chunk-KXS2VJGM.mjs
-            chunk-UA2SRELX.mjs
-            server.mjs
-            render-utils.server.mjs
-            polyfills.server.mjs
-        browser/
-            favicon.ico
-            main-V3Q5BMAV.js
-            index.html
-            polyfills-S3BTP7ME.js
-            styles-5INURTSO.css
-            home/
-                index.html
-            register/
-                index.html
-            login/
-                index.html
-.angular/
-    cache/
-        17.3.7/
-            test-app/
-                .tsbuildinfo
-            vite/
-                deps/
-                    _metadata.json
-                    @angular_platform-browser.js.map
-                    chunk-4CR7SUYH.js
-                    chunk-VOJBHTPI.js.map
-                    @angular_core.js.map
-                    @angular_router.js
-                    chunk-4CR7SUYH.js.map
-                    package.json
-                    chunk-VOJBHTPI.js
-                    @angular_platform-browser.js
-                    @angular_router.js.map
-                    @angular_core.js
 src/
     favicon.ico
     index.html
