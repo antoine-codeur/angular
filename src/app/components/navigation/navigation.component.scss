@@ -1,0 +1,17 @@
+nav {
+    ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      li {
+        margin-right: 10px;
+      }
+      a {
+        text-decoration: none;
+        color: #333;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+}  
